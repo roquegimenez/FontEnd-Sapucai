@@ -6,7 +6,7 @@
   <!-- Formulario para seleccionar el ID -->
   <form [formGroup]="idSeleccionadoForm" (ngSubmit)="actualizarId()">
     <label for="id">ID del Usuario:</label>
-    <input type="number" id="id" formControlName="id" required>
+    <input type="number" id="nombre" formControlName="id" required>
     <button type="submit">Seleccionar Usuario</button>
   </form>
 
@@ -28,6 +28,6 @@
 
     <!-- Agrega más campos según sea necesario -->
 
-    <button type="submit">Guardar Cambios</button>
+    <button type="submit" [disabled]="usuarioForm.invalid">Guardar Cambios</button>
   </form>
 </div>
