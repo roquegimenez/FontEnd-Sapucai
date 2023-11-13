@@ -5,8 +5,6 @@ export class Usuario{
       public Nombre: string="",
       public Email: string="",
       public Password: string="",
-      public SaldoPesos: number=0,
-      public SaldoDolares: number=0,
    ) {}
 
     }

@@ -7,6 +7,7 @@ import { Usuario } from 'src/app/models/usuario.model';
 import { registerForm } from 'interfaces/register-form.intefaces';
 
 
+
 @Component({
   selector: 'app-registro',
   templateUrl: './registro.component.html',

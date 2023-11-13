@@ -65,34 +65,36 @@ public async Task<ActionResult<Usuario>> crearUsuario([FromBody] Usuario usuario
 }
 
         // Actualizar un usuario por ID
-        [HttpPut("{id}")]
-        public async Task<IActionResult> ActualizarUsuario(int id, Usuario usuario)
+// UsuarioController.cs
+
+[HttpPut("{id}")]
+public async Task<IActionResult> ActualizarUsuario(int id, [FromBody] Usuario usuario)
+{
+    if (usuario == null || id != usuario.ID_Usuario)
+    {
+        return BadRequest();
+    }
+
+    _context.Entry(usuario).State = EntityState.Modified;
+
+    try
+    {
+        await _context.SaveChangesAsync();
+    }
+    catch (DbUpdateConcurrencyException)
+    {
+        if (!UsuarioExists(id))
         {
-            if (id != usuario.ID_Usuario || usuario == null)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(usuario).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!UsuarioExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
+            return NotFound();
         }
+        else
+        {
+            throw;
+        }
+    }
+
+    return NoContent();
+}
 
         // Eliminar un usuario por ID
         [HttpDelete("{id}")]
