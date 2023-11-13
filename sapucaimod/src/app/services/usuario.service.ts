@@ -47,14 +47,16 @@ obtenerUsuarioPorId(id: number): Observable<registerForm> {
 }
 
 actualizarUsuario(id: number, datos: any): Observable<any> {
-  // Lógica para actualizar el usuario y manejo de errores
-  return this.http.put<any>(`${this.apiUrl}/usuarios/${id}`, datos).pipe(
+  console.log('Datos a enviar en la actualización:', datos);
+
+  return this.http.put<any>(`${this.apiUrl}/Usuario/${id}`, datos).pipe(
     catchError((error: any) => {
       console.error('Error en la actualización del usuario:', error);
       throw error; // Puedes personalizar esto según tus necesidades
     })
   );
 }
+
 
 
 }

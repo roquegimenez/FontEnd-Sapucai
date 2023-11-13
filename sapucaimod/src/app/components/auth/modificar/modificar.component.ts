@@ -1,8 +1,10 @@
+// modificar.component.ts
+
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { UsuarioService } from '../../../services/usuario.service';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { catchError } from 'rxjs/operators';
+import { Usuario } from '../../../models/usuario.model';
 import { registerForm } from 'interfaces/register-form.intefaces';
 
 @Component({
@@ -17,46 +19,30 @@ export class ModificarComponent implements OnInit {
   constructor(
     private route: ActivatedRoute,
     private usuarioService: UsuarioService,
-    private formBuilder: FormBuilder,
-    private router: Router
+    private formBuilder: FormBuilder
   ) {}
 
   ngOnInit(): void {
     this.usuarioForm = this.formBuilder.group({
+      id: [null, Validators.required], // Deja este campo en blanco
       nombre: ['', Validators.required],
       email: ['', [Validators.required, Validators.email]],
       password: [''],
-      // ... otros campos
+      // Otros campos del usuario
     });
-
-    this.usuarioId = +this.route.snapshot.paramMap.get('id')! || 0;
-
-    if (this.usuarioId > 0) {
-      this.cargarUsuario();
-    }
   }
 
-  private cargarUsuario(): void {
-    this.usuarioService.obtenerUsuarioPorId(this.usuarioId).subscribe(
-      (usuario: registerForm) => {
-        this.usuarioForm.patchValue(usuario);
-      },
-      (error: any) => {
-        if (error.status === 404) {
-          console.error('Usuario no encontrado');
-          // Puedes redirigir a una página de error o realizar otra acción
-        } else {
+  cargarUsuario(): void {
+    const idIngresado = this.usuarioForm.get('id')?.value;
+    if (idIngresado) {
+      this.usuarioService.obtenerUsuarioPorId(idIngresado).subscribe(
+        (usuario: registerForm) => {
+          this.usuarioForm.patchValue(usuario);
+        },
+        (error: any) => {
           console.error('Error al cargar el usuario:', error);
         }
-      }
-    );
-  }
-
-  actualizarId(): void {
-    const idSeleccionado = this.usuarioForm.get('id')?.value;
-    if (idSeleccionado) {
-      this.usuarioId = +idSeleccionado;
-      this.cargarUsuario();
+      );
     }
   }
 
@@ -64,13 +50,19 @@ export class ModificarComponent implements OnInit {
     if (this.usuarioForm.valid) {
       const datosModificados = this.usuarioForm.value;
 
-      console.log('Datos a enviar para la actualización:', datosModificados);
+      // Crear un nuevo objeto Usuario con las propiedades necesarias
+      const usuarioConvertido: Usuario = {
+        ID_Usuario: datosModificados.id || 0,
+        Nombre: datosModificados.nombre || '',
+        Email: datosModificados.email || '',
+        Password: datosModificados.password || '',
+        // Otros campos del usuario
+      };
 
-      this.usuarioService.actualizarUsuario(this.usuarioId, datosModificados).subscribe(
+      this.usuarioService.actualizarUsuario(usuarioConvertido.ID_Usuario, usuarioConvertido).subscribe(
         (respuesta) => {
           console.log('Usuario actualizado correctamente:', respuesta);
-          // Redirigir o realizar otras acciones después de la actualización
-          this.router.navigate(['/lista-usuarios']); // Cambia la ruta según tu estructura
+          // Puedes redirigir o realizar otras acciones después de la actualización
         },
         (error) => {
           console.error('Error al actualizar el usuario:', error);

@@ -5,8 +5,8 @@
   <form [formGroup]="usuarioForm" (ngSubmit)="guardarCambios()">
     <div class="form-group">
       <label for="id">ID:</label>
-      <!-- Puedes usar un input de tipo 'number' o 'text', dependiendo de tus necesidades -->
-      <input type="number" class="form-control" id="id" formControlName="id">
+      <input type="number" class="form-control" id="id" formControlName="id" placeholder="Ingrese el ID">
+      <button type="button" class="btn btn-primary" (click)="cargarUsuario()">Cargar Usuario</button>
     </div>
     <div class="form-group">
       <label for="nombre">Nombre:</label>
