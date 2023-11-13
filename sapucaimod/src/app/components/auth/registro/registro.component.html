@@ -1,0 +1,44 @@
+<section class="container">
+  <h2 style="text-align: center;">Registrar Usuario</h2>
+  <div class="card">
+    <div class="card-header text-justify">
+      <form [formGroup]="registerForm" (ngSubmit)="crearUsuario()">
+    <!-- Nombre -->
+<div class="mb-3">
+  <label for="nombre" class="form-label">Nombre</label>
+  <input type="text" id="nombre" formControlName="nombre" class="form-control" placeholder="Nombre">
+  <div *ngIf="registerForm.get('nombre')?.hasError('required')" class="text-lg-start alert alert-danger mt-2">
+    El nombre es obligatorio.
+  </div>
+</div>
+
+
+        <!-- Email -->
+        <div class="mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input type="email" id="email" formControlName="email" class="form-control" placeholder="correo@algo.com">
+          <div *ngIf="registerForm.get('email')?.hasError('required')" class="text-lg-start alert alert-danger mt-2">
+            El email es obligatorio.
+          </div>
+          <div *ngIf="registerForm.get('email')?.hasError('email')" class="text-lg-start alert alert-danger mt-2">
+            El email debe ser válido.
+          </div>
+        </div>
+
+        <!-- Password -->
+        <div class="mb-3">
+          <label for="password" class="form-label">Password</label>
+          <input type="password" id="password" formControlName="password" class="form-control" placeholder="Contraseña (mínimo 5 caracteres)">
+          <div *ngIf="registerForm.get('password')?.hasError('required')" class="text-lg-start alert alert-danger mt-2">
+            El password es obligatorio. Min, 6 caracteres.
+          </div>
+        </div>
+
+
+        <!-- Botones -->
+        <button type="submit" class="btn btn-primary" style="margin-top: 20px; background-color: #4caf50;">Guardar</button>
+        <button type="button" class="btn btn-primary" style="margin-top: 20px; background-color: orange;">Cancelar</button>
+      </form>
+    </div>
+  </div>
+</section>

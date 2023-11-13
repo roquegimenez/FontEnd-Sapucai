@@ -1,0 +1,25 @@
+<!-- lista-usuarios.component.html -->
+<section class="container">
+  <h2 style="text-align: center;">Lista de Usuarios</h2>
+  <div *ngFor="let usuario of usuarios" class="card mb-3">
+    <div class="card-body">
+      <div class="row">
+        <div class="col text-center">
+          <strong>ID</strong>: {{ usuario.iD_Usuario }}
+        </div>
+        <div class="col text-center">
+          <strong>Nombre</strong>: {{ usuario.nombre }}
+        </div>
+
+        <div class="col">
+          <strong>Email</strong>: {{ usuario.email }}
+        </div>
+        <!-- Otros detalles del usuario -->
+        <div class="col text-right">
+          <button (click)="borrarUsuario(usuario.iD_Usuario)" class="btn btn-danger">Borrar</button>
+          <button type="submit" class="btn btn-primary boton1" routerLink="/modificar">Modificar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
