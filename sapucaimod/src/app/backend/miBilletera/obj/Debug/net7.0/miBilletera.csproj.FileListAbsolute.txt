@@ -1,0 +1,651 @@
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Monica\source\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Monica\source\Corrientes\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Mibilletera-main\Mibilletera-main\Billetera Virtual (mvcConVSCORE)\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\backend\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Practica\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Practica\sapucaimodconcomprayventa\sapucaimod\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.exe
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.deps.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.runtimeconfig.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.AssemblyInfo.cs
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.miBilletera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.build.miBilletera.props
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.miBilletera.props
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.miBilletera.props
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\bundle\miBilletera.styles.css
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\scopedcss\projectbundle\miBilletera.bundle.scp.css
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.csproj.CopyComplete
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\refint\miBilletera.dll
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.pdb
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\miBilletera.genruntimeconfig.cache
+C:\Users\Usuario\Documents\sapucai-angular\conectado - back-front\sapucaimod\src\app\backend\miBilletera\obj\Debug\net7.0\ref\miBilletera.dll
